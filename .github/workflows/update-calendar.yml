@@ -1,0 +1,39 @@
+name: Update Mizzou Sports Calendar
+
+on:
+  schedule:
+    # Run every 2 hours
+    - cron: '0 */2 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate calendar
+        run: python generate_mizzou_calendar.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add mizzou-sports.ics
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update sports calendar [skip ci]"
+            git push
+          fi
