@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Exhibition @ Missouri
 DTSTART;TZID=America/Chicago:20260808T130000
 DTEND;TZID=America/Chicago:20260808T150000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260808-Exhibition@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nVenue: Hearnes Center (VB)\\nAuto-updated from mu
  tigers.com — free Sync2Cal alternative
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Exhibition @ Missouri
 DTSTART;TZID=America/Chicago:20260815T140000
 DTEND;TZID=America/Chicago:20260815T160000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260815-Exhibition@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nVenue: Hearnes Center (VB)\\nAuto-updated from mu
  tigers.com — free Sync2Cal alternative
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ Exhibition
 DTSTART;TZID=America/Chicago:20260820T180000
 DTEND;TZID=America/Chicago:20260820T200000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260820-Exhibition@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nVenue: Columbia\, Mo.\\nAuto-updated from mutiger
  s.com — free Sync2Cal alternative
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Moms Day Out @ Missouri 3-0 (Final)
 DTSTART;TZID=America/Chicago:20260828T110000
 DTEND;TZID=America/Chicago:20260828T130000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260828-MomsDayOut@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-0\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Back To School / Double Points @ Missouri 3-0 (Final)
 DTSTART;TZID=America/Chicago:20260828T190000
 DTEND;TZID=America/Chicago:20260828T210000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260828-BackToSchoolDoublePoints@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-0\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Decades Night @ Missouri 3-0 (Final)
 DTSTART;TZID=America/Chicago:20260829T180000
 DTEND;TZID=America/Chicago:20260829T200000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260829-DecadesNight@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-0\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Duck Hunting @ Missouri 1-3 (Final)
 DTSTART;TZID=America/Chicago:20260901T200000
 DTEND;TZID=America/Chicago:20260901T220000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260901-DuckHunting@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 1-3\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -89,7 +89,7 @@ SUMMARY:🏈 Kickoff in CoMo Home Opener / Sheryl Crow National Anthem @ M
  issouri 54-14 (Final)
 DTSTART;TZID=America/Chicago:20260903T190000
 DTEND;TZID=America/Chicago:20260903T223000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260903-KickoffinCoMoHomeOpenerSherylC@mizzou-sports.cal
 DESCRIPTION:Football\\nTV: SEC Network\\nFinal: 54-14\\nVenue: Memorial St
  adium\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ Rescheduled for 9/23
 DTSTART;TZID=America/Chicago:20260906T200000
 DTEND;TZID=America/Chicago:20260906T220000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260906-Rescheduledfor923@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: FOX\\nVenue: Columbia\, Mo.\\nAuto-updated fr
  om mutigers.com — free Sync2Cal alternative
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Missouri @ Kansas 38-21 (Final)
 DTSTART;TZID=America/Chicago:20260911T190000
 DTEND;TZID=America/Chicago:20260911T223000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260911-Kansas@mizzou-sports.cal
 DESCRIPTION:Football\\nTV: FOX\\nFinal: 38-21\\nVenue: David Booth Kansas 
  Memorial Stadium\\nAuto-updated from mutigers.com — free Sync2Cal altern
@@ -124,7 +124,7 @@ SUMMARY:🏐 First Responders Appreciation / Salute To Service @ Missouri
  3-1 (Final)
 DTSTART;TZID=America/Chicago:20260911T180000
 DTEND;TZID=America/Chicago:20260911T200000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260911-FirstRespondersAppreciationSal@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-1\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Video Game Day @ Missouri 3-0 (Final)
 DTSTART;TZID=America/Chicago:20260912T160000
 DTEND;TZID=America/Chicago:20260912T180000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260912-VideoGameDay@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-0\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Grandma Beauty Pageant @ Missouri 3-1 (Final)
 DTSTART;TZID=America/Chicago:20260913T120000
 DTEND;TZID=America/Chicago:20260913T140000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260913-GrandmaBeautyPageant@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-1\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ Dayton 2-3 (Final)
 DTSTART;TZID=America/Chicago:20260918T110000
 DTEND;TZID=America/Chicago:20260918T130000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260918-Dayton@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nFinal: 2-3\\nVenue: Stroh Center\\nAuto-updated f
  rom mutigers.com — free Sync2Cal alternative
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ Toledo 2-3 (Final)
 DTSTART;TZID=America/Chicago:20260918T180000
 DTEND;TZID=America/Chicago:20260918T200000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260918-Toledo@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: ESPN+\\nFinal: 2-3\\nVenue: Savage Arena\\nAu
  to-updated from mutigers.com — free Sync2Cal alternative
@@ -180,7 +180,7 @@ SUMMARY:🏈 Memorial Stadium 100th Anniversary Game @ Missouri 27-17 (Fin
  al)
 DTSTART;TZID=America/Chicago:20260919T180000
 DTEND;TZID=America/Chicago:20260919T213000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260919-MemorialStadium100thAnniversar@mizzou-sports.cal
 DESCRIPTION:Football\\nTV: SEC Network\\nFinal: 27-17\\nVenue: Memorial St
  adium 100th Anniversary Game\\nAuto-updated from mutigers.com — free Syn
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ Bowling Green 3-1 (Final)
 DTSTART;TZID=America/Chicago:20260919T110000
 DTEND;TZID=America/Chicago:20260919T130000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260919-BowlingGreen@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: ESPN+\\nFinal: 3-1\\nVenue: Stroh Center\\nAu
  to-updated from mutigers.com — free Sync2Cal alternative
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ Rescheduled from 9/6 0-3 (Final)
 DTSTART;TZID=America/Chicago:20260923T180000
 DTEND;TZID=America/Chicago:20260923T200000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260923-Rescheduledfrom96@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nFinal: 0-3\\nVenue: Bob Devaney Sports Center\\nA
  uto-updated from mutigers.com — free Sync2Cal alternative
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Missouri @ /#RV 24-31 (Final)
 DTSTART;TZID=America/Chicago:20260926T184500
 DTEND;TZID=America/Chicago:20260926T221500
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260926-RV@mizzou-sports.cal
 DESCRIPTION:Football\\nTV: SEC Network\\nFinal: 24-31\\nVenue: Davis Wade 
  Stadium\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Kids Day / Wear White @ Missouri 3-1 (Final)
 DTSTART;TZID=America/Chicago:20260927T140000
 DTEND;TZID=America/Chicago:20260927T160000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20260927-KidsDayWearWhite@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-1\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ Ole Miss 1-3 (Final)
 DTSTART;TZID=America/Chicago:20261002T180000
 DTEND;TZID=America/Chicago:20261002T200000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261002-OleMiss@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 1-3\\nVenue: Gillom Spor
  ts Center\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 115th Homecoming / Wear Gold @ Missouri 45-17 (Final)
 DTSTART;TZID=America/Chicago:20261003T143000
 DTEND;TZID=America/Chicago:20261003T180000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261003-115thHomecomingWearGold@mizzou-sports.cal
 DESCRIPTION:Football\\nTV: ABC\\nFinal: 45-17\\nVenue: Memorial Stadium\\n
  Auto-updated from mutigers.com — free Sync2Cal alternative
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ LSU 2-3 (Final)
 DTSTART;TZID=America/Chicago:20261004T120000
 DTEND;TZID=America/Chicago:20261004T140000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261004-LSU@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 2-3\\nVenue: Maravich Ce
  nter\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Backyard BBQ / RHA Night @ Missouri 0-3 (Final)
 DTSTART;TZID=America/Chicago:20261009T190000
 DTEND;TZID=America/Chicago:20261009T210000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261009-BackyardBBQRHANight@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: ESPNU\\nFinal: 0-3\\nVenue: Hearnes Center (V
  B)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Texas A&M @ Missouri 27-6 (Final)
 DTSTART;TZID=America/Chicago:20261010T110000
 DTEND;TZID=America/Chicago:20261010T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261010-TexasAM@mizzou-sports.cal
 DESCRIPTION:Football\\nTV: ABC\\nFinal: 27-6\\nVenue: Memorial Stadium\\nA
  uto-updated from mutigers.com — free Sync2Cal alternative
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Autism Awareness Night / Disney Night @ Missouri 3-2 (Final)
 DTSTART;TZID=America/Chicago:20261011T140000
 DTEND;TZID=America/Chicago:20261011T160000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261011-AutismAwarenessNightDisneyNigh@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-2\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -302,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Dig Pink / Greek Night @ Missouri 3-0 (Final)
 DTSTART;TZID=America/Chicago:20261014T180000
 DTEND;TZID=America/Chicago:20261014T200000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261014-DigPinkGreekNight@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-0\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -313,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Senior Day @ Missouri 3-0 (Final)
 DTSTART;TZID=America/Chicago:20261018T140000
 DTEND;TZID=America/Chicago:20261018T160000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261018-SeniorDay@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-0\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ South Carolina 3-0 (Final)
 DTSTART;TZID=America/Chicago:20261023T180000
 DTEND;TZID=America/Chicago:20261023T200000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261023-SouthCarolina@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-0\\nVenue: Carolina VB
   Center\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ Georgia 3-1 (Final)
 DTSTART;TZID=America/Chicago:20261025T130000
 DTEND;TZID=America/Chicago:20261025T150000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261025-Georgia@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 3-1\\nVenue: Stegeman Co
  liseum\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -346,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ Kentucky 0-3 (Final)
 DTSTART;TZID=America/Chicago:20261030T180000
 DTEND;TZID=America/Chicago:20261030T200000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261030-Kentucky@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 0-3\\nVenue: Memorial Co
  liseum\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Missouri @ Arkansas 34-10 (Final)
 DTSTART;TZID=America/Chicago:20261031T184500
 DTEND;TZID=America/Chicago:20261031T221500
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261031-Arkansas@mizzou-sports.cal
 DESCRIPTION:Football\\nTV: SEC Network\\nFinal: 34-10\\nVenue: Donald W. R
  eynolds Razorback Stadium\\nAuto-updated from mutigers.com — free Sync2C
@@ -369,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Volloween / JR Tigers Day @ Missouri 3-2 (Final)
 DTSTART;TZID=America/Chicago:20261101T133000
 DTEND;TZID=America/Chicago:20261101T153000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261101-VolloweenJRTigersDay@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: ESPN\\nFinal: 3-2\\nVenue: Hearnes Center (VB
  )\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Cleveland State @ Missouri 111-50 (Final)
 DTSTART;TZID=America/Chicago:20261103T190000
 DTEND;TZID=America/Chicago:20261103T213000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261103-ClevelandState@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nFinal: 111-50\\nVenue: Mizzou Arena\\nAuto-
  updated from mutigers.com — free Sync2Cal alternative
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Regions Bank Show Me Showdown 84-90 (Final)
 DTSTART;TZID=America/Chicago:20261106T180000
 DTEND;TZID=America/Chicago:20261106T203000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261106-RegionsBankShowMeShowdown@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nFinal: 84-90\\nVenue: Enterprise Center\\nA
  uto-updated from mutigers.com — free Sync2Cal alternative
@@ -402,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Happy Hour / Wear Black @ Missouri 0-3 (Final)
 DTSTART;TZID=America/Chicago:20261106T190000
 DTEND;TZID=America/Chicago:20261106T210000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261106-HappyHourWearBlack@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nFinal: 0-3\\nVenue: Hearnes Cen
  ter (VB)\\nAuto-updated from mutigers.com — free Sync2Cal alternative
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Stripe Out Memorial Stadium @ Missouri
 DTSTART;TZID=America/Chicago:20261107T110000
 DTEND;TZID=America/Chicago:20261107T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261107-StripeOutMemorialStadium@mizzou-sports.cal
 DESCRIPTION:Football\\nTV: ESPN\\nVenue: Stripe Out Memorial Stadium\\nAut
  o-updated from mutigers.com — free Sync2Cal alternative
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Alumni Day @ Missouri
 DTSTART;TZID=America/Chicago:20261108T140000
 DTEND;TZID=America/Chicago:20261108T160000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261108-AlumniDay@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nVenue: Hearnes Center (VB)\\nAu
  to-updated from mutigers.com — free Sync2Cal alternative
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 SIUE @ Missouri
 DTSTART;TZID=America/Chicago:20261109T190000
 DTEND;TZID=America/Chicago:20261109T213000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261109-SIUE@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN+\\nVenue: Mizzou Arena\\nAuto-upda
  ted from mutigers.com — free Sync2Cal alternative
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ Oklahoma
 DTSTART;TZID=America/Chicago:20261113T180000
 DTEND;TZID=America/Chicago:20261113T200000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261113-Oklahoma@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nVenue: Columbia\, Mo.\\nAuto-up
  dated from mutigers.com — free Sync2Cal alternative
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Legends Classic
 DTSTART;TZID=America/Chicago:20261115T133000
 DTEND;TZID=America/Chicago:20261115T160000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261115-LegendsClassic@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: Peacock\\nVenue: United Center\\nAuto-u
  pdated from mutigers.com — free Sync2Cal alternative
@@ -468,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ Arkansas
 DTSTART;TZID=America/Chicago:20261115T140000
 DTEND;TZID=America/Chicago:20261115T160000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261115-Arkansas@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nVenue: Barnhill Arena\\nAuto-up
  dated from mutigers.com — free Sync2Cal alternative
@@ -479,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Alcorn State @ Missouri
 DTSTART;TZID=America/Chicago:20261118T200000
 DTEND;TZID=America/Chicago:20261118T223000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261118-AlcornState@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Le Moyne @ Missouri
 DTSTART;TZID=America/Chicago:20261120T190000
 DTEND;TZID=America/Chicago:20261120T213000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261120-LeMoyne@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN+\\nVenue: Mizzou Arena\\nAuto-upda
  ted from mutigers.com — free Sync2Cal alternative
@@ -501,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ SEC Tournament
 DTSTART;TZID=America/Chicago:20261120T000000
 DTEND;TZID=America/Chicago:20261120T020000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261120-SECTournament@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nTV: SEC Network\\nVenue: Enmarket Arena\\nAuto-up
  dated from mutigers.com — free Sync2Cal alternative
@@ -512,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Military Appreciation / Wear Black @ Missouri
 DTSTART;TZID=America/Chicago:20261121T000000
 DTEND;TZID=America/Chicago:20261121T033000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261121-MilitaryAppreciationWearBlack@mizzou-sports.cal
 DESCRIPTION:Football\\nVenue: Memorial Stadium\\nAuto-updated from mutiger
  s.com — free Sync2Cal alternative
@@ -523,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Evansville @ Missouri
 DTSTART;TZID=America/Chicago:20261124T200000
 DTEND;TZID=America/Chicago:20261124T223000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261124-Evansville@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN+\\nVenue: Mizzou Arena\\nAuto-upda
  ted from mutigers.com — free Sync2Cal alternative
@@ -534,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Arkansas-Pine Bluff @ Missouri
 DTSTART;TZID=America/Chicago:20261127T150000
 DTEND;TZID=America/Chicago:20261127T173000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261127-ArkansasPineBluff@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN+\\nVenue: Mizzou Arena\\nAuto-upda
  ted from mutigers.com — free Sync2Cal alternative
@@ -545,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Senior Day @ Missouri
 DTSTART;TZID=America/Chicago:20261128T000000
 DTEND;TZID=America/Chicago:20261128T033000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261128-SeniorDay@mizzou-sports.cal
 DESCRIPTION:Football\\nVenue: Memorial Stadium\\nAuto-updated from mutiger
  s.com — free Sync2Cal alternative
@@ -556,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 SEC/ACC Challenge @ Missouri
 DTSTART;TZID=America/Chicago:20261201T180000
 DTEND;TZID=America/Chicago:20261201T203000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261201-SECACCChallenge@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ NCAA First & Second Rounds
 DTSTART;TZID=America/Chicago:20261203T000000
 DTEND;TZID=America/Chicago:20261203T020000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261203-NCAAFirstSecondRounds@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nVenue: Columbia\, Mo.\\nAuto-updated from mutiger
  s.com — free Sync2Cal alternative
@@ -578,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ StorageMart Border Showdown
 DTSTART;TZID=America/Chicago:20261206T160000
 DTEND;TZID=America/Chicago:20261206T183000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261206-StorageMartBorderShowdown@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: T-Mobile Center\\nAuto-up
  dated from mutigers.com — free Sync2Cal alternative
@@ -589,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ NCAA Regional
 DTSTART;TZID=America/Chicago:20261210T120800
 DTEND;TZID=America/Chicago:20261210T140800
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261210-NCAARegional@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nVenue: Columbia\, Mo.\\nAuto-updated from mutiger
  s.com — free Sync2Cal alternative
@@ -600,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Nebraska
 DTSTART;TZID=America/Chicago:20261212T180000
 DTEND;TZID=America/Chicago:20261212T203000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261212-Nebraska@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPNU\\nVenue: T-Mobile Center\\nAuto-u
  pdated from mutigers.com — free Sync2Cal alternative
@@ -611,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:🏐 Missouri @ NCAA Final Four & Championship
 DTSTART;TZID=America/Chicago:20261217T120900
 DTEND;TZID=America/Chicago:20261217T140900
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261217-NCAAFinalFourChampionship@mizzou-sports.cal
 DESCRIPTION:Volleyball\\nVenue: Columbia\, Mo.\\nAuto-updated from mutiger
  s.com — free Sync2Cal alternative
@@ -622,7 +622,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Indiana
 DTSTART;TZID=America/Chicago:20261218T170000
 DTEND;TZID=America/Chicago:20261218T193000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261218-Indiana@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Columbia\, Mo.\\nAuto-updated from m
  utigers.com — free Sync2Cal alternative
@@ -633,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ McBride Homes Braggin' Rights
 DTSTART;TZID=America/Chicago:20261220T183000
 DTEND;TZID=America/Chicago:20261220T210000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261220-McBrideHomesBragginRights@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: Enterprise Center\\nAuto-
  updated from mutigers.com — free Sync2Cal alternative
@@ -644,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Chicago State @ Missouri
 DTSTART;TZID=America/Chicago:20261222T190000
 DTEND;TZID=America/Chicago:20261222T213000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20261222-ChicagoState@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -655,7 +655,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Arkansas
 DTSTART;TZID=America/Chicago:20270102T150000
 DTEND;TZID=America/Chicago:20270102T173000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270102-Arkansas@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: Columbia\, Mo.\\nAuto-upd
  ated from mutigers.com — free Sync2Cal alternative
@@ -666,7 +666,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Texas A&M @ Missouri
 DTSTART;TZID=America/Chicago:20270105T200000
 DTEND;TZID=America/Chicago:20270105T223000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270105-TexasAM@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -677,7 +677,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Kentucky @ Missouri
 DTSTART;TZID=America/Chicago:20270109T150000
 DTEND;TZID=America/Chicago:20270109T173000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270109-Kentucky@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -688,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Tennessee
 DTSTART;TZID=America/Chicago:20270113T180000
 DTEND;TZID=America/Chicago:20270113T203000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270113-Tennessee@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: Columbia\, Mo.\\nAuto-upd
  ated from mutigers.com — free Sync2Cal alternative
@@ -699,7 +699,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 South Carolina @ Missouri
 DTSTART;TZID=America/Chicago:20270116T120000
 DTEND;TZID=America/Chicago:20270116T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270116-SouthCarolina@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -710,7 +710,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Oklahoma
 DTSTART;TZID=America/Chicago:20270119T180000
 DTEND;TZID=America/Chicago:20270119T203000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270119-Oklahoma@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: Columbia\, Mo.\\nAuto-upd
  ated from mutigers.com — free Sync2Cal alternative
@@ -721,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Vanderbilt
 DTSTART;TZID=America/Chicago:20270123T190000
 DTEND;TZID=America/Chicago:20270123T213000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270123-Vanderbilt@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: Columbia\, Mo.\\nAuto-upd
  ated from mutigers.com — free Sync2Cal alternative
@@ -732,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Alabama @ Missouri
 DTSTART;TZID=America/Chicago:20270126T200000
 DTEND;TZID=America/Chicago:20270126T223000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270126-Alabama@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -743,7 +743,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Ole Miss @ Missouri
 DTSTART;TZID=America/Chicago:20270130T170000
 DTEND;TZID=America/Chicago:20270130T193000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270130-OleMiss@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -754,7 +754,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Mississippi State
 DTSTART;TZID=America/Chicago:20270203T190000
 DTEND;TZID=America/Chicago:20270203T213000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270203-MississippiState@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN\\nVenue: Columbia\, Mo.\\nAuto-upd
  ated from mutigers.com — free Sync2Cal alternative
@@ -765,7 +765,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Tennessee @ Missouri
 DTSTART;TZID=America/Chicago:20270206T120000
 DTEND;TZID=America/Chicago:20270206T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270206-Tennessee@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -776,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Florida
 DTSTART;TZID=America/Chicago:20270213T110000
 DTEND;TZID=America/Chicago:20270213T133000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270213-Florida@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: Columbia\, Mo.\\nAuto-upd
  ated from mutigers.com — free Sync2Cal alternative
@@ -787,7 +787,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Oklahoma @ Missouri
 DTSTART;TZID=America/Chicago:20270216T180000
 DTEND;TZID=America/Chicago:20270216T203000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270216-Oklahoma@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -798,7 +798,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Auburn
 DTSTART;TZID=America/Chicago:20270220T110000
 DTEND;TZID=America/Chicago:20270220T133000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270220-Auburn@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: Columbia\, Mo.\\nAuto-upd
  ated from mutigers.com — free Sync2Cal alternative
@@ -809,7 +809,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Arkansas @ Missouri
 DTSTART;TZID=America/Chicago:20270223T180000
 DTEND;TZID=America/Chicago:20270223T203000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270223-Arkansas@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -820,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Georgia
 DTSTART;TZID=America/Chicago:20270227T170000
 DTEND;TZID=America/Chicago:20270227T193000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270227-Georgia@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN\\nVenue: Columbia\, Mo.\\nAuto-upd
  ated from mutigers.com — free Sync2Cal alternative
@@ -831,7 +831,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ Texas
 DTSTART;TZID=America/Chicago:20270302T180000
 DTEND;TZID=America/Chicago:20270302T203000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270302-Texas@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: ESPN\\nVenue: Columbia\, Mo.\\nAuto-upd
  ated from mutigers.com — free Sync2Cal alternative
@@ -842,7 +842,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 LSU @ Missouri
 DTSTART;TZID=America/Chicago:20270306T130000
 DTEND;TZID=America/Chicago:20270306T153000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270306-LSU@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nTV: SECN\\nVenue: Mizzou Arena\\nAuto-updat
  ed from mutigers.com — free Sync2Cal alternative
@@ -853,7 +853,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ SEC First Round
 DTSTART;TZID=America/Chicago:20270310T120000
 DTEND;TZID=America/Chicago:20270310T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270310-SECFirstRound@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Bridgestone Arena\\nAuto-updated fro
  m mutigers.com — free Sync2Cal alternative
@@ -864,7 +864,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ SEC Second Round
 DTSTART;TZID=America/Chicago:20270311T120000
 DTEND;TZID=America/Chicago:20270311T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270311-SECSecondRound@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Bridgestone Arena\\nAuto-updated fro
  m mutigers.com — free Sync2Cal alternative
@@ -875,7 +875,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ SEC Quarterfinal
 DTSTART;TZID=America/Chicago:20270312T120000
 DTEND;TZID=America/Chicago:20270312T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270312-SECQuarterfinal@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Bridgestone Arena\\nAuto-updated fro
  m mutigers.com — free Sync2Cal alternative
@@ -886,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ SEC Semifinal
 DTSTART;TZID=America/Chicago:20270313T120000
 DTEND;TZID=America/Chicago:20270313T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270313-SECSemifinal@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Bridgestone Arena\\nAuto-updated fro
  m mutigers.com — free Sync2Cal alternative
@@ -897,7 +897,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ SEC Championship
 DTSTART;TZID=America/Chicago:20270314T120000
 DTEND;TZID=America/Chicago:20270314T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270314-SECChampionship@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Bridgestone Arena\\nAuto-updated fro
  m mutigers.com — free Sync2Cal alternative
@@ -908,7 +908,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ NCAA Tournament Opening Round
 DTSTART;TZID=America/Chicago:20270316T120000
 DTEND;TZID=America/Chicago:20270316T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270316-NCAATournamentOpeningRound@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Columbia\, Mo.\\nAuto-updated from m
  utigers.com — free Sync2Cal alternative
@@ -919,7 +919,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ NCAA Tournament First Round
 DTSTART;TZID=America/Chicago:20270318T120000
 DTEND;TZID=America/Chicago:20270318T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270318-NCAATournamentFirstRound@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Columbia\, Mo.\\nAuto-updated from m
  utigers.com — free Sync2Cal alternative
@@ -930,7 +930,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ NCAA Tournament Second Round
 DTSTART;TZID=America/Chicago:20270320T120000
 DTEND;TZID=America/Chicago:20270320T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270320-NCAATournamentSecondRound@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Columbia\, Mo.\\nAuto-updated from m
  utigers.com — free Sync2Cal alternative
@@ -941,7 +941,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ NCAA Tournament Sweet 16
 DTSTART;TZID=America/Chicago:20270325T120000
 DTEND;TZID=America/Chicago:20270325T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270325-NCAATournamentSweet16@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Columbia\, Mo.\\nAuto-updated from m
  utigers.com — free Sync2Cal alternative
@@ -952,7 +952,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ NCAA Tournament Elite Eight
 DTSTART;TZID=America/Chicago:20270327T120000
 DTEND;TZID=America/Chicago:20270327T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270327-NCAATournamentEliteEight@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Columbia\, Mo.\\nAuto-updated from m
  utigers.com — free Sync2Cal alternative
@@ -963,7 +963,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ NCAA Final Four
 DTSTART;TZID=America/Chicago:20270403T120000
 DTEND;TZID=America/Chicago:20270403T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270403-NCAAFinalFour@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Columbia\, Mo.\\nAuto-updated from m
  utigers.com — free Sync2Cal alternative
@@ -974,7 +974,7 @@ BEGIN:VEVENT
 SUMMARY:🏀 Missouri @ NCAA Championship
 DTSTART;TZID=America/Chicago:20270405T120000
 DTEND;TZID=America/Chicago:20270405T143000
-DTSTAMP:20261107T124056Z
+DTSTAMP:20261107T183037Z
 UID:20270405-NCAAChampionship@mizzou-sports.cal
 DESCRIPTION:Men's Basketball\\nVenue: Columbia\, Mo.\\nAuto-updated from m
  utigers.com — free Sync2Cal alternative
